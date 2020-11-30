@@ -1,0 +1,2 @@
+render:
+  dir: ${render_dir:output}

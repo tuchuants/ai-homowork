@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "render.dir",
+      "type": "java.lang.String",
+      "description": "The output dir of diagrams."
+    }
+  ]
+}
