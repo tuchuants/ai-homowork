@@ -4,6 +4,7 @@ This is a temporary repository used for ai homowork submission. check the `task1
 
 Author vented until 2:00 PM. ඞ lol ඞ.
 
+```
 .　　         　▃▆█▇▄▖
 　　     　▟◤▖　　　◥█▎
 　　　◢◤　   ▐　　　　▐▉
@@ -14,3 +15,4 @@ Author vented until 2:00 PM. ඞ lol ඞ.
 ▐█▙▂　　　             ◢██◤
 　◥██◣　　　　◢▄◤
 　　　▀██▅▇▀ 
+```
